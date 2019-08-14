@@ -1,0 +1,7 @@
+#divPlaylist{
+    display: flex;
+    flex-direction: row;
+}
+iframe {
+    margin: 2%;
+}
